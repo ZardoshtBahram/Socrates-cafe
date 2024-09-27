@@ -1,13 +1,13 @@
-package com.socratescafe.socrates_cafe;
+package com.socrates.cafe.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SocratesCafeApplication {
+public class ServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SocratesCafeApplication.class, args);
+		SpringApplication.run(ServerApplication.class, args);
 	}
 
 }

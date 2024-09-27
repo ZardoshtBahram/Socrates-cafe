@@ -1,10 +1,10 @@
-package com.socratescafe.socrates_cafe;
+package com.socrates.cafe.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SocratesCafeApplicationTests {
+class ServerApplicationTests {
 
 	@Test
 	void contextLoads() {

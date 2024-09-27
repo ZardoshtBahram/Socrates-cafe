@@ -8,10 +8,10 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.socratescafe</groupId>
-	<artifactId>socrates-cafe</artifactId>
+	<groupId>com.socrates.cafe</groupId>
+	<artifactId>server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>socrates-cafe</name>
+	<name>server</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
