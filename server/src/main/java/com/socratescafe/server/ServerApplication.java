@@ -1,4 +1,4 @@
-package com.socrates.cafe.server;
+package com.socratescafe.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.socrates.cafe.server;
+package com.socratescafe.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
